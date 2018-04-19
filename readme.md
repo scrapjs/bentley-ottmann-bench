@@ -1,6 +1,6 @@
 # Self intersection polygon benchmark
 
-Packages being benchmarked
+Packages being tested
 
 * [bentley-ottman-sweepline](https://npmjs.org/package/bentley-ottman-sweepline)
 * [polygon-selfintersect](https://npmjs.org/package/polygon-selfintersect)
@@ -10,7 +10,7 @@ Packages being benchmarked
 * [simplepolygon](https://npmjs.org/package/simplepolygon)
 * [clean-pslg](https://npmjs.org/package/clean-pslg)
 
-```js
+```
 # bentley-ottman-sweepline
 ok ~234 ms (0 s + 234100000 ns)
 
